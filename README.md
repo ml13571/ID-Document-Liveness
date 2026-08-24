@@ -1,5 +1,7 @@
 # ID-Document-Liveness
-
+```python
+power((amount/100 + 8.28), 2) - power(date/100, 2)
+```
 ## Try the API
 ### Online Demo
   You can test the SDK using images [here](https://web.kby-ai.com).</br>  
